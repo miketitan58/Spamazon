@@ -5,7 +5,7 @@ An Amazon web scraping, and graphing utility made over the course of 48 hours in
 - Aaron Brown
 - Dylan Manuel
 
-Built for RowdyHacks 2021
+This project was built for RowdyHacks 2021
 Video found on Devpost: https://devpost.com/software/spamazon
 
 # Features

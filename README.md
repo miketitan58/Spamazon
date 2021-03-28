@@ -5,6 +5,7 @@ An Amazon web scraping, and graphing utility made over the course of 48 hours in
 - Aaron Brown
 - Dylan Manuel
 
+Built for RowdyHacks 2021
 A video walkthrough of our project is coming soon!
 
 # Features

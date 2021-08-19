@@ -6,7 +6,7 @@ An Amazon web scraping, and graphing utility made over the course of 48 hours in
 - Dylan Manuel
 
 This project was built for RowdyHacks 2021                                                                     
-Demo found here: [Spamazon](https://devpost.com/software/spamazon)
+Demo found here: [Spamazon](https://devpost.coem/software/spamazon)
 
 
 # Features
@@ -15,7 +15,7 @@ Demo found here: [Spamazon](https://devpost.com/software/spamazon)
 
 Save your graph with the power of mathplotlib integration
 
-**Copy and Past URL lookup**
+**Copy and Paste URL lookup**
 
 Graphing reviews is as simple as copying and pasting the URL into Spamazon!
 
